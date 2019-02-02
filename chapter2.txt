@@ -1,3 +1,4 @@
-Rodział II - Podtytuł 
+﻿Rodział II - Podtytuł 
 hotfix changes 
 zmianaz v1.3 
+ZMiany dla GitHubDesktop
